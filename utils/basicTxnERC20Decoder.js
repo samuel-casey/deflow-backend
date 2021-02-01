@@ -5,7 +5,7 @@ Functionality for decoding erc20 value involved in a pending or confirmed transa
 */
 
 const ethers = require('ethers');
-const cUSDT_ABI = require('./blocknative-sdk/src/cUSDT_ABI.json');
+const cUSDT_ABI = require('../abis/cUSDT_ABI.json');
 
 // ABI for Compound USDT market
 const abi = cUSDT_ABI;
