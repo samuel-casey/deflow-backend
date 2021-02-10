@@ -6,4 +6,4 @@ Utilities are currently written in JavaScript but will likely be converted to Ty
 
 Feedback, suggestions, and collaboration welcome!
 
-**[Project overview and status update as of 1/31/21](https://www.notion.so/DeFlow-Overview-Progress-To-Date-4ced90b79bfa4ef6949f010439d96bdc)**
+**[Project overview and status update as of 2/7/21](https://www.notion.so/DeFlow-Overview-Progress-To-Date-4ced90b79bfa4ef6949f010439d96bdc)**
